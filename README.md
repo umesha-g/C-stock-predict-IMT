@@ -38,7 +38,7 @@ Real Stock value for predicted day was Rs. 1024.86 Program Predicted Rs. 925.71
 
 Error = (1024.86 − 925.71) / 1024.86 x 100% = 9.6745%
 
-<span style="color:red">This is a practice Project Only. Use Results for Real world Scenarios at your own risk</span>.
+***This is a practice Project Only. Use Results for Real world Scenarios at your own risk***
 
 ### How to Run
 
