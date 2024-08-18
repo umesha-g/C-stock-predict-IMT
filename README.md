@@ -38,7 +38,7 @@ Real Stock value for predicted day was Rs. 1024.86 Program Predicted Rs. 925.71
 
 Error = (1024.86 − 925.71) / 1024.86 x 100% = 9.6745%
 
-#***This is a practice Project Only. Use Results for Real world Scenarios at your own risk***
+❗***This is a practice Project Only. Use Results for Real world Scenarios at your own risk***❗
 
 ### How to Run
 
@@ -48,3 +48,6 @@ For Linux based Operating systems,
 1. Open terminal in Project folder
 2. Run `./a.out` in terminal
 
+After openning , Follow the Instructions Provided by the Program. It very Easy to Use.
+
+Thank you.
