@@ -1,6 +1,6 @@
 ## C PROGRAMMING APPROACH FOR PREDICTION OF STOCK PRICES BASED ON BROWNIAN MOTION THEORY AND MONTE CARLO SIMULATION
 
-###### Project was carried out for the Department of Mathematics of University Of Ruhuna in partial fulfillment of the requirement for the Level III Industrial Mathematics course unit (*IMT3b2β*) 
+###### Project was carried out for the Department of Mathematics of University Of Ruhuna in partial fulfillment of the requirement for the Level I Industrial Mathematics course unit (*IMT1b2β*) 
 
 #### Supervisor : Dr. Harshanie Lakshika Jayathilake
 
